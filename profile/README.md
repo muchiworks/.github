@@ -31,10 +31,13 @@ for people to continue with their lives when its job is done.
       <img src="../assets/muchilife-icon.png" alt="MuchiLife app icon" width="72" />
     </td>
     <td>
-      <strong><a href="https://muchiworks.com/products/muchilife">MuchiLife</a></strong><br />
-      An Android product for choosing a Focus duration, keeping selected apps
-      closed during that time, and protecting the boundary the person set.
-    </td>
+  <strong><a href="https://muchiworks.com/products/muchilife">MuchiLife</a></strong><br />
+  An Android product for choosing a Focus duration, keeping selected apps
+  closed during that time, and protecting the boundary the person set.<br /><br />
+  <a href="https://github.com/MuchiWorks/muchilife-showcase">
+    <strong>View the public product and engineering case study</strong>
+  </a>
+</td>
   </tr>
 </table>
 
