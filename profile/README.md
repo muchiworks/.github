@@ -31,13 +31,13 @@ for people to continue with their lives when its job is done.
       <img src="../assets/muchilife-icon.png" alt="MuchiLife app icon" width="72" />
     </td>
     <td>
-  <strong><a href="https://muchiworks.com/products/muchilife">MuchiLife</a></strong><br />
-  An Android product for choosing a Focus duration, keeping selected apps
-  closed during that time, and protecting the boundary the person set.<br /><br />
-  <a href="https://github.com/MuchiWorks/muchilife-showcase">
-    <strong>View the public product and engineering case study</strong>
-  </a>
-</td>
+      <strong><a href="https://muchiworks.com/products/muchilife">MuchiLife</a></strong><br />
+      An Android product for choosing a Focus duration, keeping selected apps
+      closed during that time, and protecting the boundary the person set.<br /><br />
+      <a href="https://github.com/MuchiWorks/muchilife-showcase">
+        <strong>View the public product and engineering case study</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -52,9 +52,9 @@ for people to continue with their lives when its job is done.
 
 ## Engineering areas
 
-Mobile product engineering · Android integrations · Firebase and Google Cloud ·
-Google Play Billing · Identity and account lifecycle · Secure backend operations ·
-Localization · Testing, monitoring, and release engineering
+Mobile product engineering · Android integrations · Managed cloud services ·
+Digital commerce · Product data and account experiences · Localization · Testing ·
+Monitoring · Release engineering
 
 ## Public work
 
